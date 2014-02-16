@@ -1,0 +1,13 @@
+*.a
+*.dll
+*.exe
+.DS_Store
+bin/
+obj/
+*userprefs
+*xcuserdata/
+*build/
+*.mode1v3
+*.pbxuser
+*.xcworkspace
+*.moved-aside/
