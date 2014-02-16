@@ -28,7 +28,7 @@ UIImage SnapshotImageWithScale (UIView view, float scale)
 
 ...
 
-// Create snapshot of the parent view (this can be the superview or anythin else)
+// Create snapshot of the parent view (this can be the superview or anything else)
 UIImage snapshot = SnapshotImageWithScale (parentView, UIScreen.MainScreen.Scale);
 
 // Blur the snapshot with the specified radius and tint color
